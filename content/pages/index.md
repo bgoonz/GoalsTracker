@@ -5,7 +5,7 @@ sections:
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Collaborate
         url: /pricing
         style: primary
     image: /images/collage-lite.gif
