@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Startup",
-        "logo": "/images/banner.jpg",
+        "logo": "/images/violet-elm.jpg",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
