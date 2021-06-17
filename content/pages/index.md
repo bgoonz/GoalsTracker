@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: /images/more-pics.gif
+    image: /images/collage-lite.gif
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
