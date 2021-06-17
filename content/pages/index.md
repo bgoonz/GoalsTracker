@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Goal Setting In Web Development
-  description: The preview of the Startup theme
+  description: My Goal Setting Site
   extra:
     - name: 'og:type'
       value: website
