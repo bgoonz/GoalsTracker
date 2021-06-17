@@ -4,7 +4,7 @@
     "layout_type": "full-width",
     "style": "classic",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "sans-serif",
     "header": {
         "title": "Startup",
