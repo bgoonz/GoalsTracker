@@ -3,13 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Achieve your Goals!
-    subtitle: >-
-      Celebrating daily wins with YourGoal.
+    subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: /images/more-pics.gif
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
@@ -44,7 +43,8 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
-          With Your Goal, you can create a dashboard with data about your activities and track your progress.
+          With Your Goal, you can create a dashboard with data about your
+          activities and track your progress.
         actions:
           - label: Learn More
             url: /thank-you
@@ -58,7 +58,9 @@ sections:
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
-          Friends are an integral part of our life, a true friend can motivate you to achieve your goals. With Your Goal, you can set goals with your friends and achieve them together.
+          Friends are an integral part of our life, a true friend can motivate
+          you to achieve your goals. With Your Goal, you can set goals with your
+          friends and achieve them together.
         actions:
           - label: Learn More
             url: /thank-you
@@ -72,7 +74,8 @@ sections:
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
-          With YourGoal you will be more productive and organized. Overcome procrastination and achieve your goals.
+          With YourGoal you will be more productive and organized. Overcome
+          procrastination and achieve your goals.
         actions:
           - label: Learn More
             url: /thank-you
@@ -90,9 +93,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: >-
-          Ursula Gurnmeister, Sr. Design Manager at Company
+          “I love how lightweight and easy it is to use. It intuitively builds
+          into my day-to-day rhythm, and the natural flow of my day.”
+        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
@@ -105,7 +108,9 @@ sections:
       - title: What to Do
         title_align: left
         content: >-
-           Goals take time, hard work, perseverance and commitment to achieve it. With **YourGoal** you can list positive task what helps you to create good habbits.
+          Goals take time, hard work, perseverance and commitment to achieve it.
+          With **YourGoal** you can list positive task what helps you to create
+          good habbits.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
@@ -115,7 +120,8 @@ sections:
       - title: What not to do
         title_align: left
         content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage your productivity and goal achievement.
+          Quit bad habits. Track any bad actions with YourGoal that sabotage
+          your productivity and goal achievement.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
@@ -125,7 +131,9 @@ sections:
       - title: Activity streak
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
@@ -135,7 +143,9 @@ sections:
       - title: Your Progress
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
@@ -166,8 +176,7 @@ sections:
     background_color: none
   - type: cta_section
     title: Ready to get started?
-    content: >-
-      Start achieving your goals today!
+    content: Start achieving your goals today!
     actions:
       - label: Try for free
         url: /thank-you
@@ -185,26 +194,26 @@ seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Startup Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Startup theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/feature-1.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Startup Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Startup theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
 layout: advanced
