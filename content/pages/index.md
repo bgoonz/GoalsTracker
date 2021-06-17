@@ -191,7 +191,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
+  title: Goal Setting In Web Development
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
