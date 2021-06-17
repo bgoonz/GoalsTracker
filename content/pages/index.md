@@ -204,7 +204,7 @@ seo:
       value: The preview of the Startup theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: /_static/app-assets/images/beige-lime.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
