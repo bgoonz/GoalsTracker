@@ -96,7 +96,7 @@ sections:
           “I love how lightweight and easy it is to use. It intuitively builds
           into my day-to-day rhythm, and the natural flow of my day.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: /images/101948313_3560363123980817_2358876238887518208_n.jpg
+        image: /images/music-profile.PNG
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
