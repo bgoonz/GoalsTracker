@@ -41,7 +41,7 @@
         ]
     },
     "footer": {
-        "logo": "/images/banner.jpg",
+        "logo": "/images/social.png",
         "logo_alt": "Startup logo",
         "has_primary_nav": true,
         "primary_nav_title": "About",
