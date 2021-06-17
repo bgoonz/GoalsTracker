@@ -44,7 +44,7 @@
         "logo": "/images/banner.jpg",
         "logo_alt": "Startup logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "About",
         "primary_nav_links": [
             {
                 "label": "About",
