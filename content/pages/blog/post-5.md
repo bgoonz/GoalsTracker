@@ -1,44 +1,47 @@
 ---
 title: How to Set Team Goals The Right Way
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus.
-date: 2021-02-10
+  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
+  senectus.
+date: '2021-02-10'
 author: content/data/team/brandon-guidelines.yaml
 categories:
   - content/data/categories/tips.yaml
 tags:
   - content/data/tags/productivity.yaml
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto.
-thumb_image: images/post-5.jpg
+  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
+  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
+  affecit, quanto.
+thumb_image: /images/space.gif
 thumb_image_alt: Post 5 placeholder image
 image: images/post-5.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
   title: How to Set Team Goals The Right Way
-  description: Estne, quaeso, inquam, sitienti in bibendo voluptas
+  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: How to Set Team Goals The Right Way
       keyName: property
-    - name: og:description
-      value: Estne, quaeso, inquam, sitienti in bibendo voluptas
+    - name: 'og:description'
+      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-5.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: How to Set Team Goals The Right Way
-    - name: twitter:description
-      value: Estne, quaeso, inquam, sitienti in bibendo voluptas
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+    - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
 layout: post
