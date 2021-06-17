@@ -1,42 +1,45 @@
 ---
 title: What Are Some Good Daily Goals to Set?
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
-date: 2021-01-15
+  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
+  effectus est, hilara vita amissa est.
+date: '2021-01-15'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
-thumb_image: images/post-4.jpg
+  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
+  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
+  vitium consuetudo Latina traduceret.
+thumb_image: /images/react.gif
 thumb_image_alt: Post 4 placeholder image
 image: images/post-4.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
-  description: Itaque hoc frequenter dici solet a vobis, non intellegere nos
+  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
       keyName: property
-    - name: og:description
-      value: Itaque hoc frequenter dici solet a vobis, non intellegere nos
+    - name: 'og:description'
+      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-4.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
-    - name: twitter:description
-      value: Itaque hoc frequenter dici solet a vobis, non intellegere nos
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+    - name: 'twitter:image'
       value: images/post-4.jpg
       relativeUrl: true
 layout: post
