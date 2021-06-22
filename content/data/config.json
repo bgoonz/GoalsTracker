@@ -40,7 +40,7 @@
             },
             {
                 "label": "Main-Blog",
-                "url": "#",
+                "url": "https://bgoonz-blog.netlify.app/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
