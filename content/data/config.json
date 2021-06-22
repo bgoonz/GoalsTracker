@@ -39,7 +39,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Main",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
