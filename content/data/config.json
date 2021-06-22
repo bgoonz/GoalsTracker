@@ -29,14 +29,20 @@
                 "style": "link"
             },
             {
-                "label": "Log in",
+                "label": "Get Started",
                 "url": "/thank-you",
                 "style": "secondary"
             },
             {
-                "label": "Get Started",
-                "url": "/thank-you",
-                "style": "primary"
+                "label": "Main-Blog",
+                "url": "https://bgoonz-blog.netlify.app/",
+                "style": "primary",
+                "has_icon": true,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
