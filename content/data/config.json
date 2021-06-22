@@ -36,7 +36,7 @@
             {
                 "label": "Get Started",
                 "url": "/thank-you",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "Main-Blog",
